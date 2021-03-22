@@ -11,9 +11,9 @@
     </a>
 </p>
 
-I’m currently working on **NNWizard — a visual environment for modelling and training of convolutional neural networks**
+I’m currently working on `NNWizard` — a visual environment for modelling and training of convolutional neural networks.
 
-In addition **I'm not so bad photographer**
+In addition, I'm not so bad photographer
 
 <h3 align="left">
     Connect with me:

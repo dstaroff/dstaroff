@@ -105,6 +105,5 @@
 </p>
 
 <p>
-    &nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kleach&show_icons=true&locale=en" alt="kleach" />
+    &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kleach&show_icons=true&locale=en" alt="kleach" />
 </p>

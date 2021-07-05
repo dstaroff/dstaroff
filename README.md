@@ -1,5 +1,5 @@
 <h1 align="center">
-    🙋‍♂️, I'm Dmitry Starov
+    🙋‍♂️, I'm Dmitry
 </h1>
 <h3 align="center">
     A software developer with a strong passion to create pretty digital things
@@ -11,12 +11,12 @@
     </a>
 </p>
 
-I’m currently working on `NNWizard` — a visual environment for modelling and training of convolutional neural networks.
+Excluding the main job I'm working on various ML tasks and curating an outstanding project `NNWizard` — an educational visual environment for modelling and training convolutional neural networks.
 
-In addition, I'm not so bad photographer
+In addition, I guess I'm not so bad [photographer](https://vk.com/modnoe.nazvanie)
 
 <h3 align="left">
-    Connect with me:
+    Contact me:
 </h3>
 <p align="left">
     <a href="https://linkedin.com/in/dstarov" target="blank">
@@ -37,14 +37,17 @@ In addition, I'm not so bad photographer
     Languages and Tools:
 </h3>
 <p align="left">
+    <a href="https://www.python.org" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    </a>
     <a href="https://www.java.com" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
     </a>
     <a href="https://kotlinlang.org" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
     </a>
-    <a href="https://www.python.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    <a href="https://golang.org/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="golang" width="40" height="40"/>
     </a>
     <a href="https://www.w3schools.com/cpp/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>

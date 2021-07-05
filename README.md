@@ -20,16 +20,16 @@ In addition, I guess I'm not so bad [photographer](https://vk.com/modnoe.nazvani
 </h3>
 <p align="left">
     <a href="https://linkedin.com/in/dstarov" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dstarov" height="30" width="40" />
+        <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="dstarov" height="40" width="40"/>
     </a>
     <a href="https://vk.me/kleach" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg" alt="kleach" height="30" width="40" />
+        <img align="center" src="https://www.vectorlogo.zone/logos/vk/vk-tile.svg" alt="kleach" height="40" width="40" />
     </a>
     <a href="https://t.me/kleach" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg?color=white" alt="kleach" height="30" width="40" />
+        <img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" alt="kleach" height="40" width="40" />
     </a>
     <a href="https://instagram.com/dmitry.staroff" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dmitry.staroff" height="30" width="40" />
+        <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" alt="dmitry.staroff" height="40" width="40" />
     </a>
 </p>
 
@@ -96,7 +96,7 @@ In addition, I guess I'm not so bad [photographer](https://vk.com/modnoe.nazvani
     </a>
 </p>
 
-![Kleach's github stats](https://github-readme-stats.vercel.app/api?username=kleach&show_icons=true&count_private=true&theme=dracula&include_all_commits=true&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=kleach&show_icons=true&count_private=true&theme=dracula&include_all_commits=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=kleach&show_icons=true&&theme=dracula&langs_count=10&layout=compact&hide=c%23,jupyter%20notebook,hlsl,shaderLab,antlr,batchfile&hide_border=true)
 
 <div align="center">

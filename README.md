@@ -1,5 +1,5 @@
 <h1 align="center">
-    🙋‍♂️, I'm Dmitry
+    🙋‍♂️, name's Dmitry
 </h1>
 <h3 align="center">
     A software developer with a strong passion to create pretty digital things
@@ -7,13 +7,9 @@
 
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=kleach&theme=dracula&no-frame=true" alt="kleach" />
+        <img src="https://github-profile-trophy.vercel.app/?username=dstaroff&theme=dracula&no-frame=true" alt="dstaroff" />
     </a>
 </p>
-
-Excluding the main job I'm working on various ML tasks and curating an outstanding project `NNWizard` — an educational visual environment for modelling and training convolutional neural networks.
-
-In addition, I guess I'm not so bad [photographer](https://vk.com/modnoe.nazvanie)
 
 <h3 align="left">
     Contact me:
@@ -21,9 +17,6 @@ In addition, I guess I'm not so bad [photographer](https://vk.com/modnoe.nazvani
 <p align="left">
     <a href="https://linkedin.com/in/dstarov" target="blank">
         <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="dstarov" height="40" width="40"/>
-    </a>
-    <a href="https://vk.me/kleach" target="blank">
-        <img align="center" src="https://www.vectorlogo.zone/logos/vk/vk-tile.svg" alt="kleach" height="40" width="40" />
     </a>
     <a href="https://t.me/kleach" target="blank">
         <img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" alt="kleach" height="40" width="40" />
@@ -96,8 +89,8 @@ In addition, I guess I'm not so bad [photographer](https://vk.com/modnoe.nazvani
     </a>
 </p>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=kleach&show_icons=true&count_private=true&theme=dracula&include_all_commits=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=kleach&show_icons=true&&theme=dracula&langs_count=10&layout=compact&hide=c%23,jupyter%20notebook,hlsl,shaderLab,antlr,batchfile&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=dstaroff&show_icons=true&count_private=true&theme=dracula&include_all_commits=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=dstaroff&show_icons=true&&theme=dracula&langs_count=10&layout=compact&hide=c%23,jupyter%20notebook,hlsl,shaderLab,antlr,batchfile&hide_border=true)
 
 <div align="center">
     <h3>

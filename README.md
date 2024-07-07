@@ -1,104 +1,72 @@
-<h1 align="center">
-    🙋‍♂️, name's Dmitry
-</h1>
-<h3 align="center">
-    A software developer with a strong passion to create pretty digital things
-</h3>
-
-<p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=dstaroff&theme=dracula&no-frame=true" alt="dstaroff" />
-    </a>
-</p>
-
-<h3 align="left">
-    Contact me:
-</h3>
-<p align="left">
-    <a href="https://linkedin.com/in/dstarov" target="blank">
-        <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="dstarov" height="40" width="40"/>
-    </a>
-    <a href="https://t.me/kleach" target="blank">
-        <img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" alt="kleach" height="40" width="40" />
-    </a>
-    <a href="https://instagram.com/dmitry.staroff" target="blank">
-        <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" alt="dmitry.staroff" height="40" width="40" />
-    </a>
-</p>
-
-<h3 align="left">
-    Languages and Tools:
-</h3>
-<p align="left">
-    <a href="https://www.python.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    </a>
-    <a href="https://www.java.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-    </a>
-    <a href="https://kotlinlang.org" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
-    </a>
-    <a href="https://golang.org/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="golang" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/cs/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-    </a>
-    <a href="https://www.linux.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-    </a>
-    <a href="https://www.arduino.cc/" target="_blank">
-        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-    </a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    </a>
-    <a href="https://www.qt.io/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/>
-    </a>
-    <a href="https://www.tensorflow.org" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-    </a>
-    <a href="https://unity.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
-    </a>
-    <a href="https://travis-ci.org" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/>
-    </a>
-    <a href="https://www.photoshop.com/en" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-    </a>
-    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-    </a>
-    <a href="https://www.adobe.com/products/xd.html" target="_blank">
-        <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
-    </a>
-    <a href="https://www.figma.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-    </a>
-    <a href="https://www.blender.org/" target="_blank">
-        <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
-    </a>
-</p>
-
-![Stats](https://github-readme-stats.vercel.app/api?username=dstaroff&show_icons=true&count_private=true&theme=dracula&include_all_commits=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=dstaroff&show_icons=true&&theme=dracula&langs_count=10&layout=compact&hide=c%23,jupyter%20notebook,hlsl,shaderLab,antlr,batchfile&hide_border=true)
+<style>
+:root {
+    --grad-opacity: 0.1;
+    --grad: linear-gradient(45deg, rgba(0,0,0,calc(0*var(--grad-opacity))) 0%, rgba(153,0,255,calc(1*var(--grad-opacity))) 50%, rgba(0,255,248, calc(2*var(--grad-opacity))) 100%);
+    --border: 1vw;
+    --offset: 2vw;
+}
+.grad {
+    background: var(--grad);
+    background-size: 200%, 200%;
+    animation: grad-anim 5s ease-out infinite;
+    border-radius: var(--border);
+    padding: var(--offset);
+    margin: var(--offset);
+}
+@keyframes grad-anim {
+    0%{background-position:0 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0 50%}
+}
+</style>
 
 <div align="center">
+    <h1>
+        Hi, name is Dmitry
+    </h1>
     <h3>
-        Support me:
+        A software developer with a strong passion to create pretty digital things
+    </h3>
+    <div class="grad">
+        <img src="https://github-profile-trophy.vercel.app/?username=dstaroff&title=Experience,PullRequest,Review,MultiLanguage&theme=algolia&no-frame=true&no-bg=true&margin-w=1&column=-1" alt="Stats" />
+    </div>
+    <div class="grad">
+        <a target="_blank" href="https://golang.org/">
+            <img width="50vw" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" alt="Go" />
+        </a>
+        <a target="_blank" href="https://docker.com/">
+            <img width="50vw" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" />
+        </a>
+        <a target="_blank" href="https://kubernetes.io/">
+            <img width="50vw" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" />
+        </a>
+        <a target="_blank" href="https://helm.sh/">
+            <img width="50vw" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/helm/helm-original.svg" alt="Helm" />
+        </a>
+        <a target="_blank" href="https://www.terraform.io/">
+            <img width="50vw" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" alt="Terraform" />
+        </a>
+        <a target="_blank" href="https://ubuntu.com/">
+            <img width="50vw" height="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" />
+        </a>
+        <a target="_blank" href="https://www.python.org">
+            <img width="50vw" height="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" />
+        </a>
+    </div>
+    <h3>
+        See you on
     </h3>
     <p>
-        <a href="https://www.buymeacoffee.com/kleach">
-            <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" height="50" width="210" alt="kleach" />
+        <a target="_blank" href="https://linkedin.com/in/dstarov">
+            <img width="50vw" height="auto" align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" />
+        </a>
+        <a target="_blank" href="https://instagram.com/dstaroff">
+            <img width="50vw" height="auto" align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" alt="Instagram" />
+        </a>
+    </p>
+    <p>
+        <a target="_blank" href="https://buymeacoffee.com/kleach">
+            <img width="auto" height="50vw" src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy me a coffee" />
         </a>
     </p>
 </div>

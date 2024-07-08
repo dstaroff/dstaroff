@@ -1,4 +1,4 @@
-<svg viewBox="0 0 800 300" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 800 240" xmlns="http://www.w3.org/2000/svg">
     <!-- language=css -->
     <style>
         :root {
@@ -23,17 +23,6 @@
 
         .container-h {
             width: 100%;
-        }
-
-        hr {
-            --color: rgb(68 71 90);
-
-            width: 95%;
-            height: 0.1vw;
-            border-width: 0;
-
-            background-color: var(--color);
-            box-shadow: var(--blur) var(--color);
         }
 
         .row {
@@ -120,10 +109,6 @@
         }
 
         @media (prefers-color-scheme: light) {
-            hr {
-                --color: #93A1A1;
-            }
-
             .gradient-bg::after {
                 --opacity: 0.05;
             }
@@ -156,8 +141,6 @@
                         <span class="output">A software developer with a strong passion to create pretty digital things</span>
                     </p>
                 </div>
-                <br/>
-                <hr/>
                 <br/>
                 <div class="container-h gradient-bg bordered">
                     <div class="row spaced">
